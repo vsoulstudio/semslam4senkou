@@ -1,0 +1,21 @@
+<package>
+  <description brief="FHard">
+
+     FHard
+
+  </description>
+  <author>Raul Mur-Artal</author>
+  <license>GPLv3</license>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+  <depend package="sensor_msgs"/>
+  <depend package="std_smgs"/>
+  <depend package="image_transport"/>
+  <depend package="cv_bridge"/>
+  <depend package="python-numpy"/>
+
+</package>
+
+
+
